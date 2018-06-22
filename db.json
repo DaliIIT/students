@@ -35,6 +35,7 @@
           "firstName": "othman",
           "lastName": "ahmed",
           "age": 21,
+             "gender": "male", 
           "picture": "https://www.bordeaux-tourism.co.uk/var/ezwebin_site/storage/images/media/images/regards-bordelais/jean-poutge/profil-jean/12599-2-fre-FR/Profil-Jean_format_360x360.jpg"
         },
           {
@@ -50,6 +51,7 @@
           "firstName": "ahmed",
           "lastName": "benjmaa",
           "age": 21,
+             "gender": "male", 
           "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcBmlNnJv8GNXPkgOGDU5FdbOPFZTxrhpeq8ai-kPhkPs2UpX"
         },
           {
